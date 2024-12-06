@@ -10,8 +10,8 @@ El modelo implementado utiliza **redes neuronales LSTM (Long Short-Term Memory)*
 
 ## Estructura del Repositorio
 
-- **`data_selected3h/`**: Contiene la base de datos utilizada en esta investigación.
-- **`Código_modelo/`**: Contiene el código completo del modelo LSTM.
+- **`data_selected3h.csv`**: Contiene la base de datos utilizada en esta investigación.
+- **`1. Modelo Final.py`**: Contiene el código completo del modelo LSTM.
 - **`README.md`**: Esta descripción y guía de uso del repositorio.
 
 ## Características Principales
